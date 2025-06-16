@@ -31,9 +31,6 @@ All samples with package marking TROPICP2S are engineering samples.
 
 # Development support 
 
-  Visit Tropic Square at [booth 5-373 at Embedded World 2025](https://tropicsquare.com/tropic-square-at-embedded-world-2025) to get board and samples.
-
-
 
 ## API and Application SDK
 [libtropic SDK](https://github.com/tropicsquare/libtropic) repository with C SDK ready for integration to your target application.
@@ -73,6 +70,6 @@ All samples with package marking TROPICP2S are engineering samples.
    
 
  ### TS validation board TS01 + TS02
-    For security evaluation we can provide boards used for validation and characterization.  Setiup allows full white box access and open chip configuration.
+    For security evaluation we can provide boards used for validation and characterization.  Setup allows full white box access and open chip configuration.
 
 
