@@ -50,9 +50,8 @@ All samples with package marking TROPICP2S are engineering samples.
 
     ![TS13](/doc/boards/ts1301_top_assembled.png)
 
-  ### Mikroe Click board
-  * picture and details coming soon 
-  * board will be ready for order at [MIKROE shop](https://mikroe.com/shop)
+  ### Mikroe Click board 
+  * board available at [MIKROE shop](https://www.mikroe.com/secure-tropic-click)
 
   
 
