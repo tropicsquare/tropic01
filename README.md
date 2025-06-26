@@ -42,7 +42,7 @@ All samples with package marking TROPICP2S are engineering samples.
 
 
 
-  ### USB stick with TROPIC01 
+  ### [USB stick with TROPIC01](https://github.com/tropicsquare/ts-dev-kits/blob/main/ts1302-usb-dev-kit.md) 
   * USB stick form factor - ideal for quick prototyping on PC
   * STM32 and TROPIC01 for applications development
   * STM32 implements usb2spi convertor
