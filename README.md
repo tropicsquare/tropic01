@@ -13,7 +13,7 @@ TROPIC01 samples available on TS13, TS14, TS15 and Mikroe click boards are pre-p
 
 All samples with package marking TROPICP2S are engineering samples.
 
-Public errata for Tropic01 are available after registration and login at our [support portal](support.tropicsquare.com).
+Public errata for Tropic01 are available after registration and login at our [support portal](https://support.desk.tropicsquare.com/servicedesk/customer/portals).
 
 FOR MORE INQUIRIES CONTACT OUR SUPPORT TEAM AT https://support.tropicsquare.com or via email support@tropicsquare.com
 
@@ -42,31 +42,34 @@ FOR MORE INQUIRIES CONTACT OUR SUPPORT TEAM AT https://support.tropicsquare.com 
 ### Development kits and target boards
 
 #### [USB stick with TROPIC01](https://github.com/tropicsquare/ts-dev-kits/blob/main/ts1302-usb-dev-kit.md)
+<img src="doc/boards/ts1301_top_assembled.png" width="150" align="left">    
 
 * USB stick form factor - ideal for quick prototyping on PC
 * STM32 and TROPIC01 for applications development
 * STM32 implements usb2spi convertor
-*   API protocol over terminal
+* API protocol over terminal
 
-    ![TS13](doc/boards/ts1301_top_assembled.png)
 
+<br><br><br><br><br><br><br><br><br><br><br><br>
 #### Mikroe Click board
+<img src="https://cdn1-shop.mikroe.com/img/product/secure-tropic-click/secure-tropic-click-thickbox_default-12x.jpg" width="200" align="left"> 
 
-* board available at [MIKROE shop](https://www.mikroe.com/secure-tropic-click)
-
+* Board available at [MIKROE shop](https://www.mikroe.com/secure-tropic-click)
+<br><br><br><br><br><br><br><br><br><br><br><br>
 #### RPi shield TS1501
+<img src="doc/boards/ts1501_top_assembled.png" width="200" align="left"> 
 
 * Shield for RPi platform boards
-*   TROPIC01 device soldered on the board
+* TROPIC01 device soldered on the board
 
-    ![TS15](doc/boards/ts1501_top_assembled.png)
-
+<br><br><br><br><br><br><br><br>
 #### Arduino shield TS14
+<img src="doc/boards/ts1401_top_assembled.png" width="200" align="left">
 
-*   Extension board for Arduino compatible devkits with TROPIC01 chip soldered on the board
+* Extension board for Arduino compatible devkits with TROPIC01 chip soldered on the board
 
-    ![TS14](doc/boards/ts1401_top_assembled.png)
 
+<br><br><br><br><br><br><br><br>
 #### TS validation board TS01 + TS02
 
 ```
