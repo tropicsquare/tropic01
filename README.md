@@ -71,7 +71,5 @@ FOR MORE INQUIRIES CONTACT OUR SUPPORT TEAM AT https://support.tropicsquare.com 
 
 <br><br><br><br><br><br><br><br>
 #### TS validation board TS01 + TS02
-
-```
 For security evaluation we can provide boards used for validation and characterization.  Setup allows full white box access and open chip configuration.
-```
+
