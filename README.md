@@ -13,7 +13,7 @@ TROPIC01 samples available on TS13, TS14, TS15 and Mikroe click boards are pre-p
 
 All samples with package marking TROPICP2S are engineering samples.
 
-Public errata for Tropic01 are available after registration and login at our [support portal](https://support.tropicsquare.com).
+Public errata for Tropic01 are available after registering and logging at our [support portal](https://support.tropicsquare.com).
 
 FOR MORE INQUIRIES CONTACT OUR SUPPORT TEAM AT https://support.tropicsquare.com or via email support@tropicsquare.com
 
