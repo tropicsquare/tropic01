@@ -52,10 +52,10 @@ FOR MORE INQUIRIES CONTACT OUR SUPPORT TEAM AT https://support.tropicsquare.com 
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
 #### Mikroe Click board
-<img src="https://cdn1-shop.mikroe.com/img/product/secure-tropic-click/secure-tropic-click-thickbox_default-12x.jpg" width="200" align="left"> 
+<img src="doc/boards/secure-tropic-click.png" width="180" align="left"> 
 
 * Board available at [MIKROE shop](https://www.mikroe.com/secure-tropic-click)
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 #### RPi shield TS1501
 <img src="doc/boards/ts1501_top_assembled.png" width="200" align="left"> 
 
