@@ -4,7 +4,7 @@
 
 ## Disclaimer TROPIC01 Pre-Production samples
 
-TROPIC01 samples available on TS13, TS14, TS15 and Mikroe click boards are pre-production batch which should be used for design and integration evaluation only. This early batch distributed from February 2025 went through expedited packaging and provisioning process which deviates from the actual production chips which will start shipping later in 2025. Non-exhaustive list of deviations from the production chip specification includes:
+TROPIC01 samples available on TS13, TS14, TS15 and Mikroe click boards are pre-production batch which should be used for design and integration evaluation only. This early batch distributed from February 2025 went through expedited packaging and provisioning process which deviates from the actual production chips shipped later in 2025. Non-exhaustive list of deviations from the production chip specification includes:
 
 * HW environmental sensors (such as laser detector, EM field detector) aren't activated.
 * Bootloader ROM code is pre-production version.
@@ -13,21 +13,21 @@ TROPIC01 samples available on TS13, TS14, TS15 and Mikroe click boards are pre-p
 
 All samples with package marking TROPICP2S are engineering samples.
 
-Public errata for Tropic01 are available after registering and logging at our [support portal](https://support.tropicsquare.com).
+Public errata for Tropic01 are available after registering and logging into our [support portal](https://support.tropicsquare.com).
 
-FOR MORE INQUIRIES CONTACT OUR SUPPORT TEAM AT https://support.tropicsquare.com or via email support@tropicsquare.com
+FOR MORE INQUIRIES CONTACT OUR SUPPORT TEAM AT our [support portal](https://support.tropicsquare.com) or via email support@tropicsquare.com
 
 ***
 
 ## Product information
 
-[TROPIC01 product page](https://tropicsquare.com/tropic01) at tropicsquare.com
+[TROPIC01 product page](https://tropicsquare.com/tropic01)
 
 [TROPIC01 Datasheet](doc/datasheet/ODD_tropic01_datasheet_revA6.pdf)
 
 [TROPIC01 Application Interface (API)](doc/api/tropic01_user_api_v1.1.2.pdf)
 
-[Samples request form](https://tropicsquare.com/tropic01-samples)
+[Samples request form](https://tropicsquare.com/samples)
 
 [Secure channel presentation](https://cdn.prod.website-files.com/625faf6f5e93e941317bb67f/66e981e79dee26dc81650c11_ches24_jerabek_final_key.pdf)
 
@@ -60,13 +60,14 @@ FOR MORE INQUIRIES CONTACT OUR SUPPORT TEAM AT https://support.tropicsquare.com 
 <img src="doc/boards/ts1501_top_assembled.png" width="200" align="left"> 
 
 * Shield for RPi platform boards
-* TROPIC01 device soldered on the board
+* TROPIC01 chip soldered on the board
 
 <br><br><br><br><br><br><br><br>
 #### Arduino shield TS14
 <img src="doc/boards/ts1401_top_assembled.png" width="200" align="left">
 
-* Extension board for Arduino compatible devkits with TROPIC01 chip soldered on the board
+* Extension board for Arduino compatible devkits
+* TROPIC01 chip soldered on the board
 
 
 <br><br><br><br><br><br><br><br>
