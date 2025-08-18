@@ -23,9 +23,9 @@ FOR MORE INQUIRIES CONTACT OUR SUPPORT TEAM AT our [support portal](https://supp
 
 [TROPIC01 product page](https://tropicsquare.com/tropic01)
 
-[TROPIC01 Datasheet](doc/datasheet/ODD_tropic01_datasheet_revA6.pdf)
+[TROPIC01 Datasheet](doc/datasheet/ODD_TR01_datasheet_revA9.pdf) <- Latest version (A9) 
 
-[TROPIC01 Application Interface (API)](doc/api/tropic01_user_api_v1.1.2.pdf)
+[TROPIC01 Application Interface (API)](doc/api/ODU_TR01_user_api_v1.3.0.pdf) <- Latest version (1.3.0)
 
 [Samples request form](https://tropicsquare.com/samples)
 
