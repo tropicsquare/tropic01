@@ -58,7 +58,7 @@ This section provides references to TROPIC01 design materials such as Architectu
 
 [Bootloader](https://github.com/tropicsquare/ts-tropic01-bootloader)
 
-[SDK (For RISCV CPU)](https://github.com/tropicsquare/ts-sw-sdk)
+[Software Development Kit](https://github.com/tropicsquare/ts-sw-sdk)
 
 ### SPECT (ECC Engine) Software
 
