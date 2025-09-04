@@ -60,7 +60,7 @@ This section provides references to TROPIC01 design materials such as Architectu
 
 [SDK (For RISCV CPU)](https://github.com/tropicsquare/ts-sw-sdk)
 
-### ECC Engine (SPECT) Software
+### SPECT (ECC Engine) Software
 
 [SPECT (ECC Engine) Compiler](https://github.com/tropicsquare/ts-spect-compiler)
 
