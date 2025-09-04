@@ -52,13 +52,15 @@ This section provides references to TROPIC01 design materials such as Architectu
 
 [RTL Design](https://github.com/tropicsquare/tropic01-rtl)
 
-### Software
+### RISCV Software
 
 [Application FW](https://github.com/tropicsquare/ts-tropic01-fw)
 
 [Bootloader](https://github.com/tropicsquare/ts-tropic01-bootloader)
 
 [SDK (For RISCV CPU)](https://github.com/tropicsquare/ts-sw-sdk)
+
+### ECC Engine (SPECT) Software
 
 [SPECT (ECC Engine) Compiler](https://github.com/tropicsquare/ts-spect-compiler)
 
