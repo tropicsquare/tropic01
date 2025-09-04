@@ -4,77 +4,42 @@ Welcome to TROPIC01 repository, an auditable Secure Element from [Tropic Square]
 
 This repository provides references to all TROPIC01 related technical materials such as documentation, dev-kits and SW support.
 
-[Product page](https://tropicsquare.com/tropic01)
-
-[Samples request form](https://tropicsquare.com/samples)
+To see what TROPIC01 brings you, or to get samples, see [TROPIC01 Product page](https://tropicsquare.com/tropic01)
 
 ## Documentation
 
 ### Available Parts
 
-| Part Number (P/N) | Datasheet                               |  User API                             |
-| ----------------- | --------------------------------------- | ------------------------------------- |
-| TR01-B2S-T005     |   [Datasheet - REV](https://TODO.com)   | [User API - REV](https://TODO.com)    |
-| TR01-C2P-T101     |   [Datasheet - REV](https://TODO.com)   | [User API - REV](https://TODO.com)    |
-| TR01-C2P-T103     |   [Datasheet - REV](https://TODO.com)   | [User API - REV](https://TODO.com)    |
-| TR01-C2P-T301     |   [Datasheet - REV](https://TODO.com)   | [User API - REV](https://TODO.com)    |
+| Part Number (P/N) | Datasheet                               |  User API                             |  Application Notes                     |
+| ----------------- | --------------------------------------- | ------------------------------------- | -------------------------------------- |
+| TR01-B2S-T005     |   [Datasheet - REV](https://TODO.com)   | [User API - REV](https://TODO.com)    | [Application Notes](https://TODO.com)  |
+| TR01-C2P-T101     |   [Datasheet - REV](https://TODO.com)   | [User API - REV](https://TODO.com)    | [Application Notes](https://TODO.com)  |
+| TR01-C2P-T103     |   [Datasheet - REV](https://TODO.com)   | [User API - REV](https://TODO.com)    | [Application Notes](https://TODO.com)  |
+| TR01-C2P-T301     |   [Datasheet - REV](https://TODO.com)   | [User API - REV](https://TODO.com)    | [Application Notes](https://TODO.com)  |
 
-For details on differences between Part Numbers, reffer to [TR01_ODN_app_004 - Packaging and Labeling Application Note](TODO:Link)
-
-
-### Application Notes
-
-[TR01_ODN_app_002 - Pin Verification Application Note](https://TODO.com)
-
-[TR01_ODN_app_003 - Device Identity and PKI Application Note](https://TODO.com)
-
-[TR01_ODN_app_004 - Packaging and Labeling Application Note](https://TODO.com)
-
-[TR01_ODN_app_005 - Pairing Keys Application Note](https://TODO.com)
-
-[TR01_ODN_app_006 - Configuration Objects Application Note](https://TODO.com)
-
-[TR01_ODN_app_007 - Firmware Architecture Application Note](https://TODO.com)
-
-[TR01_ODN_app_008 - Security Architecture Application Note](https://TODO.com)
+For details on differences between Part Numbers, reffer to [TROPIC01 - Catalog list](https://TODO.com).
 
 
 ## Software Support
 
 [Software Development Kit (SDK) - libtropic](https://github.com/tropicsquare/libtropic)
 
-[STM32 Integration examples](https://github.com/tropicsquare/libtropic-stm32)
+[Software Development Kit - Rust Version](https://github.com/tropicsquare/libtropic-rs)
 
-[Libtropic - Utilities](https://github.com/tropicsquare/libtropic-util)
+[STM32 Integration examples](https://github.com/tropicsquare/libtropic-stm32)
 
 [Linux integration examples](https://github.com/tropicsquare/libtropic-linux)
 
-[Software Development Kit - Rust Version](https://github.com/tropicsquare/libtropic-rs)
+[Libtropic - Utilities](https://github.com/tropicsquare/libtropic-util)
 
 
 ## Development boards
 
-[Dev kit - Arduino Shield - TS1401](http://github.com/tropicsquare/tropic01-arduino-shield-hw)
+[Arduino Shield](http://github.com/tropicsquare/tropic01-arduino-shield-hw)
 
-[Dev kit - RPi Shield - TS1501](http://github.com/tropicsquare/tropic01-raspberypi-shield-hw)
+[Raspberry pi Shield](http://github.com/tropicsquare/tropic01-raspberrypi-shield-hw)
 
-[Dev kit - USB stick - TS1302 (HW) ](http://github.com/tropicsquare/tropic01-stm32u5-usb-devkit-hw)
-
-[Dev kit - USB stick - TS1302 (FW) ](https://github.com/tropicsquare/tropic01-stm32u5-usb-devkit-fw)
-
-
-### Disclaimer TROPIC01 Pre-Production samples
-
-TROPIC01 samples available on TS13, TS14, TS15 and Mikroe click boards are pre-production batch which
-should be used for design and integration evaluation only. This early batch distributed from February 2025
-went through expedited packaging and provisioning process which deviates from the actual production chips
-shipped later in 2025. Non-exhaustive list of deviations from the production chip specification includes:
-
-* Devices S/N does not follow the scheme defined in [TR01_ODN_app_003 - Device Identity and PKI Application Note](TODO:Link).
-* Devices P/N does not follow the scheme defined in [TR01_ODN_app_004 - Packaging and Labeling Application Note](TODO:Link), instead the devices P/N is: **TROPIC01-ES**.
-* HW environmental sensors (such as laser detector, EM field detector) aren't activated.
-* Bootloader ROM code is pre-production version (ABAB silicon revision - Bootloader version 1.0.1).
-* Device key pair isn't generated by production PKI infrastructure, and device certificate list is invalid.
+[USB stick](http://github.com/tropicsquare/tropic01-stm32u5-usb-devkit-hw)
 
 
 ## Auditable design
