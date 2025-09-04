@@ -24,7 +24,7 @@ For details on differences between Part Numbers, reffer to [TROPIC01 - Catalog l
 
 [Software Development Kit (SDK) - libtropic](https://github.com/tropicsquare/libtropic)
 
-[Software Development Kit - Rust Version](https://github.com/tropicsquare/libtropic-rs)
+[Software Development Kit (SDK) - Rust Version](https://github.com/tropicsquare/libtropic-rs)
 
 [STM32 Integration examples](https://github.com/tropicsquare/libtropic-stm32)
 
