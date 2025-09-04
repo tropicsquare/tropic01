@@ -1,6 +1,7 @@
 # TROPIC01
 
 Welcome to TROPIC01 repository, an auditable Secure Element from [Tropic Square](https://tropicsquare.com/).
+
 This repository provides all TROPIC01 related technical materials such as documentation, dev-kits and SW support.
 
 ## Product Documentation
@@ -19,7 +20,7 @@ This repository provides all TROPIC01 related technical materials such as docume
 | TR01-C2P-T103     |   [Datasheet - REV](TODO:Link)   | [User API - REV](TODO:Link)    |
 | TR01-C2P-T301     |   [Datasheet - REV](TODO:Link)   | [User API - REV](TODO:Link)    |
 
-For details on differences between Part Numbers, reffer to TODO-LINK-TO-Packaging-And-Labeling-AppNote.
+For details on differences between Part Numbers, reffer to [TR01_ODN_app_004 - Packaging and Labeling Application Note](TODO:Link)
 
 
 ### Application Notes
