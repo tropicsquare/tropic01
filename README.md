@@ -41,6 +41,8 @@ For details on differences between Part Numbers, reffer to [TROPIC01 - Catalog l
 
 [USB stick](http://github.com/tropicsquare/tropic01-stm32u5-usb-devkit-hw)
 
+[Microe Clickboard](http://TODO.com)
+
 
 ## Auditable design
 
