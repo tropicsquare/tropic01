@@ -15,6 +15,7 @@ To see what TROPIC01 brings you, or to get samples, see [TROPIC01 Product page](
 | TR01-B2S-T005     |   [Datasheet - REV](https://TODO.com)   | [User API - REV](https://TODO.com)    | [Application Notes](https://TODO.com)  |
 | TR01-C2P-T101     |   [Datasheet - REV](https://TODO.com)   | [User API - REV](https://TODO.com)    | [Application Notes](https://TODO.com)  |
 | TR01-C2P-T103     |   [Datasheet - REV](https://TODO.com)   | [User API - REV](https://TODO.com)    | [Application Notes](https://TODO.com)  |
+| TR01-C2P-T202     |   [Datasheet - REV](https://TODO.com)   | [User API - REV](https://TODO.com)    | [Application Notes](https://TODO.com)  |
 | TR01-C2P-T301     |   [Datasheet - REV](https://TODO.com)   | [User API - REV](https://TODO.com)    | [Application Notes](https://TODO.com)  |
 
 For details on differences between Part Numbers, reffer to [TROPIC01 - Catalog list](https://TODO.com).
