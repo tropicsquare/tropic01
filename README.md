@@ -10,13 +10,13 @@ To see what TROPIC01 brings you, or to get samples, see [TROPIC01 Product page](
 
 ### Available Parts
 
-| Part Number (P/N) | Datasheet                               |  User API                             |  Application Notes                     |
-| ----------------- | --------------------------------------- | ------------------------------------- | -------------------------------------- |
-| TR01-B2S-T005     |   [Datasheet - REV](https://TODO.com)   | [User API - REV](https://TODO.com)    | [Application Notes](https://TODO.com)  |
-| TR01-C2P-T101     |   [Datasheet - REV](https://TODO.com)   | [User API - REV](https://TODO.com)    | [Application Notes](https://TODO.com)  |
-| TR01-C2P-T103     |   [Datasheet - REV](https://TODO.com)   | [User API - REV](https://TODO.com)    | [Application Notes](https://TODO.com)  |
-| TR01-C2P-T202     |   [Datasheet - REV](https://TODO.com)   | [User API - REV](https://TODO.com)    | [Application Notes](https://TODO.com)  |
-| TR01-C2P-T301     |   [Datasheet - REV](https://TODO.com)   | [User API - REV](https://TODO.com)    | [Application Notes](https://TODO.com)  |
+| Part Number (P/N) | Datasheet                                                            |  User API                                                         |  Application Notes                     |
+| ----------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------- | -------------------------------------- |
+| TR01-B2S-T005     |   [Datasheet - REV](doc/TR01-B2S-T005/ODD_TR01_datasheet_vA_7.pdf)   | [User API - REV](doc/TR01-B2S-T005/ODU_TR01_user_api_v1_1_2.pdf)  | [Application Notes](https://TODO.com)  |
+| TR01-C2P-T101     |   [Datasheet - REV](https://TODO.com)                                | [User API - REV](https://TODO.com)                                | [Application Notes](https://TODO.com)  |
+| TR01-C2P-T103     |   [Datasheet - REV](https://TODO.com)                                | [User API - REV](https://TODO.com)                                | [Application Notes](https://TODO.com)  |
+| TR01-C2P-T202     |   [Datasheet - REV](https://TODO.com)                                | [User API - REV](https://TODO.com)                                | [Application Notes](https://TODO.com)  |
+| TR01-C2P-T301     |   [Datasheet - REV](https://TODO.com)                                | [User API - REV](https://TODO.com)                                | [Application Notes](https://TODO.com)  |
 
 For details on differences between Part Numbers, reffer to [TROPIC01 - Catalog list](https://TODO.com).
 
