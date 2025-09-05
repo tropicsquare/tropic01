@@ -18,7 +18,7 @@ To see what TROPIC01 brings you, or to get samples, see [TROPIC01 Product page](
 | TR01-C2P-T202     |   [Datasheet - A.10](doc/TR01-C2P-T202/ODD_TR01_datasheet_vA_10.pdf) | [User API - 1.4.0](doc/TR01-C2P-T202/ODU_TR01_user_api_v1_4_0.pdf)  |                                        |
 | TR01-C2P-T301     |   [Datasheet - A.10](doc/TR01-C2P-T301/ODD_TR01_datasheet_vA_10.pdf) | [User API - 1.4.0](doc/TR01-C2P-T301/ODU_TR01_user_api_v1_4_0.pdf)  |                                        |
 
-For details on differences between Part Numbers, reffer to [TROPIC01 - Catalog list](https://TODO.com).
+For details on differences between Part Numbers, reffer to [TROPIC01 - Catalog list](doc/catalog_list/OD_TR01_catalog_list.pdf).
 
 
 ## Software Support
