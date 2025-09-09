@@ -20,6 +20,12 @@ To see what TROPIC01 brings you, or to get samples, see [TROPIC01 Product page](
 
 For details on differences between Part Numbers, reffer to [TROPIC01 - Catalog list](doc/catalog_list/OD_TR01_catalog_list.pdf).
 
+For the list of Errata related to TROPIC01 product, reffer to [TROPIC01 - Errata](https://support.desk.tropicsquare.com/servicedesk/customer/portal/2/article/230588861).
+
+> [!IMPORTANT]
+ > Before you start with various examples, we strongly recommend to do two things first:
+ > * Read CHIP ID and TROPIC01's firmware versions and **save printed output for future reference**
+ > * Update TROPIC01's both internal firmware to latest version.
 
 ## Software Support
 
