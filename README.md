@@ -23,9 +23,9 @@ For details on differences between Part Numbers, reffer to [TROPIC01 - Catalog l
 For the list of Errata related to TROPIC01 product, reffer to [TROPIC01 - Errata](https://support.desk.tropicsquare.com/servicedesk/customer/portal/2/article/230588861).
 
 > [!IMPORTANT]
- > Before you start with various examples, we strongly recommend to do two things first:
+ > Before you start using TROPIC01 in your product, we strongly recommend to do two things first:
  > * Read CHIP ID and TROPIC01's firmware versions and **save printed output for future reference**
- > * Update TROPIC01's both internal firmware to latest version.
+ > * Update TROPIC01's both internal firmwares to latest version.
 
 ## Software Support
 
