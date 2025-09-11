@@ -20,7 +20,7 @@ To see what TROPIC01 brings you, or to get samples, see [TROPIC01 Product page](
 
 For details on differences between Part Numbers, reffer to [TROPIC01 - Catalog list](doc/catalog_list/OD_TR01_catalog_list_0v3.pdf).
 
-For the list of Errata related to TROPIC01 product, reffer to [TROPIC01 - Errata](https://support.desk.tropicsquare.com/servicedesk/customer/portal/2/article/230588861).
+For the list of Errata related to TROPIC01 product, reffer to [TROPIC01 - Errata](https://tropic-ops.atlassian.net/wiki/external/MjRmZDY4ZWNlMTYzNGIwZWJkZGQwNzlhM2U5NWQzN2E).
 
 > [!IMPORTANT]
  > Before you start using TROPIC01 in your product, we strongly recommend to do two things first:
