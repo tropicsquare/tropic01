@@ -10,17 +10,33 @@ To see what TROPIC01 brings you, or to get samples, see [TROPIC01 Product page](
 
 ### Available Parts
 
-| Part Number (P/N) | Datasheet                                                            |  User API                                                           |  Application Notes                     |
-| ----------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------- | -------------------------------------- |
-| TR01-B2S-T005     |   [Datasheet - A.7](doc/TR01-B2S-T005/ODD_TR01_datasheet_vA_7.pdf)   | [User API - 1.1.2](doc/TR01-B2S-T005/ODU_TR01_user_api_v1_1_2.pdf)  | Coming soon                            |
-| TR01-C2P-T101     |   [Datasheet - A.10](doc/TR01-C2P-T101/ODD_TR01_datasheet_vA_10.pdf) | [User API - 1.2.0](doc/TR01-C2P-T101/ODU_TR01_user_api_v1_2_0.pdf)  | Coming soon                            |
-| TR01-C2P-T103     |   [Datasheet - A.10](doc/TR01-C2P-T103/ODD_TR01_datasheet_vA_10.pdf) | [User API - 1.2.0](doc/TR01-C2P-T103/ODU_TR01_user_api_v1_2_0.pdf)  | Coming soon                            |
-| TR01-C2P-T202     |   [Datasheet - A.10](doc/TR01-C2P-T202/ODD_TR01_datasheet_vA_10.pdf) | [User API - 1.4.0](doc/TR01-C2P-T202/ODU_TR01_user_api_v1_4_0.pdf)  | Coming soon                            |
-| TR01-C2P-T301     |   [Datasheet - A.10](doc/TR01-C2P-T301/ODD_TR01_datasheet_vA_10.pdf) | [User API - 1.4.0](doc/TR01-C2P-T301/ODU_TR01_user_api_v1_4_0.pdf)  | Coming soon                            |
+| Part Number (P/N) | Datasheet                                                            |  User API                                                           |
+| ----------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| TR01-B2S-T005     |   [Datasheet - A.7](doc/TR01-B2S-T005/ODD_TR01_datasheet_vA_7.pdf)   | [User API - 1.1.2](doc/TR01-B2S-T005/ODU_TR01_user_api_v1_1_2.pdf)  |
+| TR01-C2P-T101     |   [Datasheet - A.10](doc/TR01-C2P-T101/ODD_TR01_datasheet_vA_10.pdf) | [User API - 1.2.0](doc/TR01-C2P-T101/ODU_TR01_user_api_v1_2_0.pdf)  |
+| TR01-C2P-T103     |   [Datasheet - A.10](doc/TR01-C2P-T103/ODD_TR01_datasheet_vA_10.pdf) | [User API - 1.2.0](doc/TR01-C2P-T103/ODU_TR01_user_api_v1_2_0.pdf)  |
+| TR01-C2P-T202     |   [Datasheet - A.10](doc/TR01-C2P-T202/ODD_TR01_datasheet_vA_10.pdf) | [User API - 1.4.0](doc/TR01-C2P-T202/ODU_TR01_user_api_v1_4_0.pdf)  |
+| TR01-C2P-T301     |   [Datasheet - A.10](doc/TR01-C2P-T301/ODD_TR01_datasheet_vA_10.pdf) | [User API - 1.4.0](doc/TR01-C2P-T301/ODU_TR01_user_api_v1_4_0.pdf)  |
 
-For details on differences between Part Numbers, reffer to [TROPIC01 - Catalog list - 0.4](doc/catalog_list/OD_TR01_catalog_list_0v4.pdf).
+For details on differences between Part Numbers, reffer to [TROPIC01 - Catalog list - 1.0](doc/catalog_list/OD_TR01_catalog_list_1v0.pdf).
 
-For the list of Errata related to TROPIC01 product, reffer to [TROPIC01 - Errata](https://tropic-ops.atlassian.net/wiki/external/MjRmZDY4ZWNlMTYzNGIwZWJkZGQwNzlhM2U5NWQzN2E).
+### Application Notes
+
+[ODN_TR01_app_002 - Pin Verification Application Note](doc/application_notes/ODN_TR01_app_002_pin_verif_1v0.pdf)
+
+[ODN_TR01_app_003 - PKI](doc/application_notes/ODN_TR01_app_003_pki_1v0.pdf)
+
+[ODN_TR01_app_005 - First Pairing Key](doc/application_notes/ODN_TR01_app_005_first_pairing_key_1v0.pdf)
+
+[ODN_TR01_app_006 - Configuration Objects](doc/application_notes/ODN_TR01_app_006_config_obj_1v0.pdf)
+
+[ODN_TR01_app_007 - FW Update](doc/application_notes/ODN_TR01_app_007_fw_update_1v0.pdf)
+
+
+### Errata
+
+For the list of Errata related to TROPIC01 product, reffer to:
+[TROPIC01 - Errata](https://tropic-ops.atlassian.net/wiki/external/MjRmZDY4ZWNlMTYzNGIwZWJkZGQwNzlhM2U5NWQzN2E).
 
 > [!IMPORTANT]
  > Before you start using TROPIC01 in your product, we strongly recommend to do two things first:
@@ -55,7 +71,7 @@ For the list of Errata related to TROPIC01 product, reffer to [TROPIC01 - Errata
 
 This section provides references to TROPIC01 design materials such as Architecture, HW design (RTL) and FW source code.
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > Some of the links below may not function yet. TROPIC01 internal design is being gradually published. As the repositories are being published, all the links below will become active.
 
 ### Hardware
