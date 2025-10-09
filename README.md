@@ -80,11 +80,11 @@ This section provides references to TROPIC01 design materials such as Architectu
 
 ### RISCV Software
 
-[Application FW](https://github.com/tropicsquare/ts-tropic01-fw)
+[Application FW](https://github.com/tropicsquare/ts-tr01-app)
 
-[Bootloader](https://github.com/tropicsquare/ts-tropic01-bootloader)
+[Bootloader](https://github.com/tropicsquare/ts-tr01-boot)
 
-[Software Development Kit](https://github.com/tropicsquare/ts-sw-sdk)
+[Software Development Kit](https://github.com/tropicsquare/ts-tr01-sdk)
 
 ### SPECT (ECC Engine) Software
 
