@@ -15,8 +15,8 @@ To see what TROPIC01 brings you, or to get samples, see [TROPIC01 Product page](
 | TR01-B2S-T005     |   [Datasheet - A.7](doc/TR01-B2S-T005/ODD_TR01_datasheet_vA_7.pdf)   | [User API - 1.1.2](doc/TR01-B2S-T005/ODU_TR01_user_api_v1_1_2.pdf)  |
 | TR01-C2P-T101     |   [Datasheet - A.10](doc/TR01-C2P-T101/ODD_TR01_datasheet_vA_10.pdf) | [User API - 1.2.0](doc/TR01-C2P-T101/ODU_TR01_user_api_v1_2_0.pdf)  |
 | TR01-C2P-T103     |   [Datasheet - A.10](doc/TR01-C2P-T103/ODD_TR01_datasheet_vA_10.pdf) | [User API - 1.2.0](doc/TR01-C2P-T103/ODU_TR01_user_api_v1_2_0.pdf)  |
-| TR01-C2P-T202     |   [Datasheet - A.10](doc/TR01-C2P-T202/ODD_TR01_datasheet_vA_10.pdf) | [User API - 1.4.0](doc/TR01-C2P-T202/ODU_TR01_user_api_v1_4_0.pdf)  |
-| TR01-C2P-T301     |   [Datasheet - A.10](doc/TR01-C2P-T301/ODD_TR01_datasheet_vA_10.pdf) | [User API - 1.4.0](doc/TR01-C2P-T301/ODU_TR01_user_api_v1_4_0.pdf)  |
+| TR01-C2P-T202     |   [Datasheet - A.10](doc/TR01-C2P-T202/ODD_TR01_datasheet_vA_10.pdf) | [User API - 1.3.0](doc/TR01-C2P-T202/ODU_TR01_user_api_v1_3_0.pdf)  |
+| TR01-C2P-T301     |   [Datasheet - A.10](doc/TR01-C2P-T301/ODD_TR01_datasheet_vA_10.pdf) | [User API - 1.3.0](doc/TR01-C2P-T301/ODU_TR01_user_api_v1_3_0.pdf)  |
 
 For details on differences between Part Numbers, reffer to [TROPIC01 - Catalog list - 1.0](doc/catalog_list/OD_TR01_catalog_list_1v0.pdf).
 
