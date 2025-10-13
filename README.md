@@ -32,6 +32,10 @@ For details on differences between Part Numbers, reffer to [TROPIC01 - Catalog l
 
 [ODN_TR01_app_007 - FW Update Application Note](doc/application_notes/ODN_TR01_app_007_fw_update_1v0.pdf)
 
+### Product Change Notifications (PCN)
+
+For list of Product Change Notifications, see:
+[TROPIC01 - PCN](https://tropic-ops.atlassian.net/wiki/external/ODVlMjc1ZWQzM2YxNDEwNmJlZGY0NTk4YWIxMDg0NDI).
 
 ### Errata
 
