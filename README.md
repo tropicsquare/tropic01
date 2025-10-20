@@ -86,8 +86,6 @@ This section provides references to TROPIC01 design materials such as Architectu
 
 [Application FW](https://github.com/tropicsquare/ts-tr01-app)
 
-[Bootloader](https://github.com/tropicsquare/ts-tr01-boot)
-
 [Software Development Kit](https://github.com/tropicsquare/ts-tr01-sdk)
 
 ### SPECT (ECC Engine) Software
