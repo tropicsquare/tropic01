@@ -24,7 +24,7 @@ For details on differences between Part Numbers, reffer to [TROPIC01 - Catalog l
 
 [ODN_TR01_app_002 - Pin Verification Application Note](doc/application_notes/ODN_TR01_app_002_pin_verif_1v0.pdf)
 
-[ODN_TR01_app_003 - PKI Application Note](doc/application_notes/ODN_TR01_app_003_pki_1v0.pdf)
+[ODN_TR01_app_003 - PKI Application Note](doc/application_notes/ODN_TR01_app_003_pki_1v1.pdf)
 
 [ODN_TR01_app_005 - First Pairing Key Application Note](doc/application_notes/ODN_TR01_app_005_first_pairing_key_1v0.pdf)
 
