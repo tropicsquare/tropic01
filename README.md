@@ -70,6 +70,7 @@ For the list of Errata related to TROPIC01 product, reffer to:
 
 [Microe Clickboard](https://github.com/tropicsquare/tropic01-mikroe-click-shield-hw)
 
+[TROPIC01 mini](https://github.com/tropicsquare/ts17-tropic01-mini-pcb) -  Minimal integration board for embedded application or development.
 
 ## Auditable design
 
