@@ -30,7 +30,7 @@ For details on differences between Part Numbers, reffer to [TROPIC01 - Catalog l
 
 [ODN_TR01_app_006 - Configuration Objects Application Note](doc/application_notes/ODN_TR01_app_006_config_obj_1v1.pdf)
 
-[ODN_TR01_app_007 - FW Update Application Note](doc/application_notes/ODN_TR01_app_007_fw_update_1v0.pdf)
+[ODN_TR01_app_007 - FW Update Application Note](doc/application_notes/ODN_TR01_app_007_fw_update_1v1.pdf)
 
 ### Product Change Notifications (PCN)
 
