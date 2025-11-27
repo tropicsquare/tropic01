@@ -1,10 +1,12 @@
-# TROPIC01
+# [TROPIC01](https://tropicsquare.com/tropic01)
 
 Welcome to TROPIC01 repository, an auditable Secure Element from [Tropic Square](https://tropicsquare.com/).
 
-This repository provides references to all TROPIC01 related technical materials such as documentation, dev-kits and SW support.
-
-To see what TROPIC01 brings you, or to get samples, see [TROPIC01 Product page](https://tropicsquare.com/tropic01).
+This repository provides technical materials for TROPIC01 such as:
+- Chip documentation
+- SW support (SDK)
+- Development kits
+- Auditable design
 
 ## Documentation
 
