@@ -77,9 +77,6 @@ For the list of Errata related to TROPIC01 product, reffer to:
 
 This section provides references to TROPIC01 design materials such as Architecture, HW design (RTL) and FW source code.
 
-> [!IMPORTANT]
-> Some of the links below may not function yet. TROPIC01 internal design is being gradually published. As the repositories are being published, all the links below will become active.
-
 ### Hardware
 
 [RTL Design](https://github.com/tropicsquare/tropic01-rtl)
