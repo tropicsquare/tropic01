@@ -10,6 +10,9 @@ This repository provides technical materials for TROPIC01 such as:
 
 ## Documentation
 
+[Latest Datasheet - A.11](doc/TR01-C2P-T310/ODD_TR01_datasheet_vA_11.pdf)
+[Latest User API - 1.4.0](doc/TR01-C2P-T310/ODU_TR01_user_api_v1_4_0.pdf)
+
 ### Available Parts
 
 | Part Number (P/N) | Datasheet                                                            |  User API                                                           |
