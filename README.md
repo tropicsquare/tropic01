@@ -44,15 +44,13 @@ For details on differences between Part Numbers, reffer to [TROPIC01 - Catalog l
 
 ### Application Notes
 
-[ODN_TR01_app_002 - Pin Verification Application Note](doc/application_notes/ODN_TR01_app_002_pin_verif_1v0.pdf)
-
-[ODN_TR01_app_003 - PKI Application Note](doc/application_notes/ODN_TR01_app_003_pki_1v2.pdf)
-
-[ODN_TR01_app_005 - First Pairing Key Application Note](doc/application_notes/ODN_TR01_app_005_first_pairing_key_1v0.pdf)
-
-[ODN_TR01_app_006 - Configuration Objects Application Note](doc/application_notes/ODN_TR01_app_006_config_obj_1v1.pdf)
-
-[ODN_TR01_app_007 - FW Update Application Note](doc/application_notes/ODN_TR01_app_007_fw_update_1v1.pdf)
+| Document Name                           | Document Code    | Available documents versions    |
+| --------------------------------------- | ---------------- | ------------------------------- |
+|  Pin Verification Application Note      | ODN_TR01_app_002 | [1.0](doc/application_notes/ODN_TR01_app_002_pin_verif_1v0.pdf), [1.1](doc/application_notes/ODN_TR01_app_002_pin_verif_1v1.pdf)                                                  |
+|  PKI Application Note                   | ODN_TR01_app_003 | [1.0](doc/application_notes/ODN_TR01_app_003_pki_1v0.pdf), [1.1](doc/application_notes/ODN_TR01_app_003_pki_1v1.pdf), [1.2](doc/application_notes/ODN_TR01_app_003_pki_1v2.pdf)   |
+|  First Pairing Key Application Note     | ODN_TR01_app_005 | [1.0](doc/application_notes/ODN_TR01_app_005_first_pairing_key_1v0.pdf), [1.1](doc/application_notes/ODN_TR01_app_005_first_pairing_key_1v1.pdf)                                  |
+|  Configuration Objects Application Note | ODN_TR01_app_006 | [1.0](doc/application_notes/ODN_TR01_app_006_config_obj_1v0.pdf), [1.1](doc/application_notes/ODN_TR01_app_006_config_obj_1v1.pdf)                                                |
+|  FW Update Application Note             | ODN_TR01_app_007 | [1.0](doc/application_notes/ODN_TR01_app_007_fw_update_1v0.pdf), [1.1](doc/application_notes/ODN_TR01_app_007_fw_update_1v1.pdf)                                                  |
 
 ### Product Change Notifications (PCN)
 
