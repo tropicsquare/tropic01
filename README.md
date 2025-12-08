@@ -22,9 +22,10 @@ The functionality of TROPIC01 depends on FW version:
 | ------------------------ | --------------------------------------------------------- | --------------------------------------------------------- |
 |  0.2.0                   |   [A.7](doc/TR01-B2S-T005/ODD_TR01_datasheet_vA_7.pdf)    | [1.1.2](doc/TR01-B2S-T005/ODU_TR01_user_api_v1_1_2.pdf)   |
 |  0.3.1                   |   [A.10](doc/TR01-C2P-T101/ODD_TR01_datasheet_vA_10.pdf)  | [1.2.0](doc/TR01-C2P-T101/ODU_TR01_user_api_v1_2_0.pdf)   |
-|  0.3.1                   |   [A.10](doc/TR01-C2P-T103/ODD_TR01_datasheet_vA_10.pdf)  | [1.2.0](doc/TR01-C2P-T103/ODU_TR01_user_api_v1_2_0.pdf)   |
+|  0.4.0                   |   [A.10](doc/TR01-C2P-T103/ODD_TR01_datasheet_vA_10.pdf)  | [1.2.0](doc/TR01-C2P-T103/ODU_TR01_user_api_v1_2_0.pdf)   |
 |  0.5.0                   |   [A.10](doc/TR01-C2P-T202/ODD_TR01_datasheet_vA_10.pdf)  | [1.3.0](doc/TR01-C2P-T202/ODU_TR01_user_api_v1_3_0.pdf)   |
 |  1.0.0                   |   [A.10](doc/TR01-C2P-T301/ODD_TR01_datasheet_vA_10.pdf)  | [1.3.0](doc/TR01-C2P-T301/ODU_TR01_user_api_v1_3_0.pdf)   |
+|  1.0.1                   |   [A.10](doc/TR01-C2P-T301/ODD_TR01_datasheet_vA_10.pdf)  | [1.3.0](doc/TR01-C2P-T301/ODU_TR01_user_api_v1_3_0.pdf)   |
 |  2.0.0                   |   [A.11](doc/TR01-C2P-T310/ODD_TR01_datasheet_vA_11.pdf)  | [1.4.0](doc/TR01-C2P-T310/ODU_TR01_user_api_v1_4_0.pdf)   |
 
 ### Available Parts
