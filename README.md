@@ -12,7 +12,6 @@ New to TROPIC01?
 
 Integrating TROPIC01?
 - [Integration Resources](integration-resources.md) - SDKs and libraries
-- [Development Boards](https://github.com/tropicsquare/dev-kits) - Hardware options
 
 Want to audit the design?
 - [Auditable Design Resources](auditable-design.md) - RTL, CPU firmware, ECC co-processor
@@ -20,12 +19,11 @@ Want to audit the design?
 ## Resources
 
 - [FAQ](faq.md) - Common questions answered
-- [Community](https://matrix.to/#/#tropic:matrix.org) - Join us on Matrix
 - [About Tropic Square](https://tropicsquare.com/about-us) - Company background
 
 ## Contributing
 
-Questions? Issues? Open an issue or join the community chat.
+Questions? Issues? Open an issue on GitHub.
 
 ---
 
