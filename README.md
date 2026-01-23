@@ -23,12 +23,6 @@ Want to audit the design?
 - [Community](https://matrix.to/#/#tropic:matrix.org) - Join us on Matrix
 - [About Tropic Square](https://tropicsquare.com/about-us) - Company background
 
-## License
-
-This project is licensed under the BSD 3-Clause Clear License. See the [LICENSE](LICENSE) file for details.
-
-Note: Tropic Square does not grant licenses to any patents. Consult the [license page](https://tropicsquare.com/license) for full terms.
-
 ## Contributing
 
 Questions? Issues? Open an issue or join the community chat.
