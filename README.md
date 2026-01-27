@@ -19,6 +19,7 @@ Want to audit the design?
 ## Resources
 
 - [FAQ](faq.md) - Common questions answered
+- [Community](https://matrix.to/#/#tropic:matrix.org) - Join us on Matrix
 - [About Tropic Square](https://tropicsquare.com/about-us) - Company background
 
 ## Contributing
