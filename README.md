@@ -1,20 +1,18 @@
 # TROPIC01
 
-TROPIC01 is an auditable secure element built on RISC-V with open hardware and firmware design.
-
-The hardware RTL, firmware source, and security architecture are available for review and audit.
+TROPIC01 is an auditable secure element built around a RISC-V core and dedicated crypto coprocessor. The hardware RTL, firmware source, and security architecture are open for review and audit.
 
 ## Quick Start
 
 New to TROPIC01?
-- [Available Parts](available-parts.md) - Choose your chip variant
-- [Devkit Quick Start](devkit-guide.md) - Hardware setup
+- [Part Numbers](pages/part-numbers.md) - Datasheets, API, Erratas, Application notes for all exisitng TROPIC01s, including deprecated versions
+- [Devboards](https://github.com/tropicsquare/devboards) - Development boards for easier evaluation
 
 Integrating TROPIC01?
-- [Integration Resources](integration-resources.md) - SDKs and libraries
+- [Integration Resources](pages/integration-resources.md) - SDKs and libraries
 
 Want to audit the design?
-- [Auditable Design Resources](auditable-design.md) - RTL, CPU firmware, ECC co-processor
+- [Auditable Design Resources](pages/auditable-design.md) - RTL, CPU firmware, ECC co-processor
 
 ## Resources
 
