@@ -15,10 +15,12 @@ Once you're familiar with the API, [order](https://www.tropicsquare.com/order-de
 
 ## What changes when you update TROPIC01's firmware?
 
+List with all firmware versions, datasheets and API can be found [here](part-numbers.md#firmware-versions).
+
 | Aspect | Before Update | After Update |
 |--------|---------------|--------------|
 | **Chip Behavior** | Follows old firmware | Follows new firmware |
-| **Documentation** | Use old datasheet | Use new datasheet |
+| **Documentation** | Use old datasheet and API | Use new datasheet and API |
 | **Factory Provisioning** | Original configuration | Unchanged |
 | **Erratas** | Check original part number | Still check original part number |
 

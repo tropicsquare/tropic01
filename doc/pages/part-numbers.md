@@ -20,6 +20,8 @@
 
 ## Firmware Versions
 
+Table contains documentation for all released firmwares.
+
 TROPIC01 chips are typically distributed with older firmware. We recommend updating to the latest firmware, but be aware that each firmware version has its own datasheet and API version. Also [read this page](part-number-and-firmware-version.md) to understand the impact on your product lifecycle.
 
 | Firmware | Datasheet | User API | Changes |
