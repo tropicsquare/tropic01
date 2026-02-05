@@ -7,11 +7,11 @@ The hardware RTL, firmware source, and security architecture are open for review
 
 
 > [!NOTE]
-> Join our community on [Discord](discord)!
+> Join our community on [Discord](https://discord.gg/r36z4zvE)!
 
 ### Get Started with TROPIC01
 
-- [TROPIC01 Variants](doc/pages/part-numbers.md) - Information for all existing part numbers (Datasheet, Erratas, ...)
+- [TROPIC01 Part Numbers](doc/pages/part-numbers.md) - Information for all existing part numbers (Firmwares, Datasheet, Erratas, ...)
 - [Devboards](https://github.com/tropicsquare/devboards) - Repository with hardware resources for our development boards
 - [Integration Resources](doc/pages/integration-resources.md) - Official SDK and tutorials for our devboards
 
