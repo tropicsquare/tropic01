@@ -1,11 +1,4 @@
-# Part Number and Firmware Versions
-
-> [!IMPORTANT]
-> TROPIC01 is partly software-defined product - the same silicon behaves differently based on firmware version.
-> **Factory Provisioning** is permanent
-> **Firmware** is updateable and we recommend to keep it updated during the lifecycle of your product.
-
-## Core Concepts of Part Number Encoding
+# Core Concepts of Part Number Encoding
 
 **Part Number** contains information about both **Factory Provisioning** and **initial Firmware versions**.
  If you don't know your Part's Number, you can use tutorial in [libtropic](https://github.com/tropicsquare/libtropic) to read it.

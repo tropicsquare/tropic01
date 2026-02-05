@@ -1,4 +1,4 @@
-# TROPIC01 product page
+# TROPIC01
 
 **TROPIC01** is an auditable secure element built around a **RISC-V** core and a custom cryptographic coprocessor named **SPECT**. 
 
