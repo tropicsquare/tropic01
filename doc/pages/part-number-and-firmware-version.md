@@ -1,11 +1,11 @@
 # Part Number and Firmware versions
 
 **Part Number** contains information about both **Factory Provisioning** and **initial Firmware versions**.
- If you don't know your Part's Number, you can use tutorial in [libtropic](https://github.com/tropicsquare/libtropic) to read it.
+ If you don't know your Part's Number, you can follow tutorial in [libtropic](https://github.com/tropicsquare/libtropic) to read it.
 
  Part Number encodes:
 
- - **Factory provisioning**
+ - **Factory provisioning Version**
    - Permanent manufacturing configuration (OTP security, hardware features, certificate chain)
 
  - **Initial Firmware Versions**
@@ -15,7 +15,7 @@ Read in high detail about the structure of **Part Number** at the beginning of [
 
 ## Firmware Update
 
-The latest firmware is the most hardened and stable. We recommend keeping your TROPIC01 updated, but always review erratas related to your part number before updating.
+The latest released firmware is hardened and stable. We recommend keeping your TROPIC01 updated, but always review erratas related to your part number before updating.
 
 For inspiration how you can do an update follow tutorial in [libtropic](https://github.com/tropicsquare/libtropic).
 
