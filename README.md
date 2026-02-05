@@ -1,29 +1,29 @@
-# TROPIC01
+# TROPIC01 product page
 
-TROPIC01 is an auditable secure element built around a RISC-V core and dedicated crypto coprocessor. The hardware RTL, firmware source, and security architecture are open for review and audit.
+**TROPIC01** is an auditable secure element built around a **RISC-V** core and a custom cryptographic coprocessor named **SPECT**. 
 
-## Quick Start
+The hardware RTL, firmware source, and security architecture are open for review and audit. TROPIC01 is currently in production, ready to be ordered and integrated!
 
-New to TROPIC01?
-- [Part Numbers](pages/part-numbers.md) - Datasheets, API, Erratas, Application notes for all exisitng TROPIC01s, including deprecated versions
-- [Devboards](https://github.com/tropicsquare/devboards) - Development boards for easier evaluation
 
-Integrating TROPIC01?
-- [Integration Resources](pages/integration-resources.md) - SDKs and libraries
 
-Want to audit the design?
-- [Auditable Design Resources](pages/auditable-design.md) - RTL, CPU firmware, ECC co-processor
+> [!NOTE]
+> Join our community on [Discord](discord)!
 
-## Resources
+### Get Started with TROPIC01
 
-- [FAQ](faq.md) - Common questions answered
-- [Community](https://matrix.to/#/#tropic:matrix.org) - Join us on Matrix
-- [About Tropic Square](https://tropicsquare.com/about-us) - Company background
+- [TROPIC01 Variants](doc/pages/part-numbers.md) - Information for all existing part numbers (Datasheet, Erratas, ...)
+- [Devboards](https://github.com/tropicsquare/devboards) - Repository with hardware resources for our development boards
+- [Integration Resources](doc/pages/integration-resources.md) - Official SDK and tutorials for our devboards
 
-## Contributing
 
-Questions? Issues? Open an issue on GitHub.
+### Audit TROPIC01's Open Design
 
----
+   - [RTL Design](https://github.com/tropicsquare/tropic01-rtl) Hardware design written in SystemVerilog
+   - [Application Firmware](https://github.com/tropicsquare/ts-tr01-app) Firmware running on TROPIC01's RISC-V CPU
+   - [Software Development Kit](https://github.com/tropicsquare/ts-tr01-sdk) Internal SDK used by TROPIC01's internal Application Firmware
+   - [SPECT Compiler](https://github.com/tropicsquare/ts-spect-compiler) Compiler and instruction set simulator for the SPECT ECC engine.
+   - [SPECT Firmware](https://github.com/tropicsquare/ts-spect-fw) Firmware for the SPECT ECC co-processor
 
-Developed by [Tropic Square](https://tropicsquare.com).
+### FAQ
+
+- [FAQ](FAQ.md) - Common questions answered
