@@ -1,6 +1,7 @@
 # Part Number and Firmware Versions
 
 > ![IMPORTANT]
+>
 > TROPIC01 is partly software-defined product - the same silicon behaves differently based on firmware version.
 > **Factory Provisioning** is permanent
 > **Firmware** is updateable and we recommend to keep it updated during the lifecycle of your product.

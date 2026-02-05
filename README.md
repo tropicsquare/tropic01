@@ -26,4 +26,4 @@ The hardware RTL, firmware source, and security architecture are open for review
 
 ### FAQ
 
-- [FAQ](FAQ.md) - Common questions answered
+- [FAQ](doc/pages/FAQ.md) - Common questions answered
