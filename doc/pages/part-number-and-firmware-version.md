@@ -10,13 +10,14 @@
 
  - **Initial Firmware Versions**
    - Application firmware and SPECT firmware are tied together by versions
-   - You should follow tutorial in [libtropic](https://github.com/tropicsquare/libtropic) to do firmware update
 
 Read in high detail about the structure of **Part Number** at the beginning of [Catalog List](../catalog_list/OD_TR01_catalog_list_2v0.pdf).
 
 ## Firmware Update
 
-The latest firmware contains the most hardened and bug-free state. We recommend keeping your TROPIC01 updated, but always review erratas related to your part number before updating.
+The latest firmware is the most hardened and stable. We recommend keeping your TROPIC01 updated, but always review erratas related to your part number before updating.
+
+For inspiration how you can do an update follow tutorial in [libtropic](https://github.com/tropicsquare/libtropic).
 
 ## Related Resources
 
