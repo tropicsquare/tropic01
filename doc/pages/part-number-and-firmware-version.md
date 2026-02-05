@@ -1,4 +1,4 @@
-# Core Concepts of Part Number Encoding
+# Part Number and Firmware versions
 
 **Part Number** contains information about both **Factory Provisioning** and **initial Firmware versions**.
  If you don't know your Part's Number, you can use tutorial in [libtropic](https://github.com/tropicsquare/libtropic) to read it.
