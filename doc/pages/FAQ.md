@@ -8,14 +8,12 @@
 
 ## What do I need to get started?
 
-We recommend starting with the Python model of the chip to experiment with our SDK, even without physical hardware. The model communicates with the library over TCP, and all your code stays the same—only the transport layer file changes—so whatever you develop and test with the model will execute identically on hardware.
+We recommend starting with the [Python model](https://tropicsquare.github.io/libtropic/latest/tutorials/model/) of the chip to experiment with our SDK, even without physical hardware. The model communicates with the library over TCP, and all your code stays the same—only the transport layer file changes—so whatever you develop and test with the model will execute identically on hardware.
 
 Once you're familiar with the API, [order](https://www.tropicsquare.com/order-devkit) a devboard of your preference and continue with real hardware. Tutorials for the model and devboards are available with our official C library [libtropic](https://github.com/tropicsquare/libtropic). For more information about existing devboards, visit the dedicated repository [here](https://github.com/tropicsquare/devboards).
 
 
 ## What changes when you update TROPIC01's firmware?
-
-List with all firmware versions, datasheets and API can be found [here](part-numbers.md#firmware-versions).
 
 | Aspect | Before Update | After Update |
 |--------|---------------|--------------|
@@ -23,6 +21,8 @@ List with all firmware versions, datasheets and API can be found [here](part-num
 | **Documentation** | Use old datasheet and API | Use new datasheet and API |
 | **Factory Provisioning** | Original configuration | Unchanged |
 | **Erratas** | Check original part number | Still check original part number |
+
+List with all firmware versions and related datasheets and API can be found [here](part-numbers.md#firmware-versions).
 
 ## Example: Updating TR01-C2P-T301 to firmware 2.0.0:
 
