@@ -22,7 +22,7 @@
 
 Table contains documentation for all released firmwares.
 
-TROPIC01 chips are typically distributed with older firmware. We recommend use [libtropic](https://github.com/tropicsquare/libtropic) to update to the latest firmware, but be aware that each firmware version has its own datasheet and API version. Also [read this page](part-number-and-firmware-version.md) to understand the impact on lifecycle of your product.
+TROPIC01 chips are typically distributed with older firmware. We recommend to use [libtropic](https://github.com/tropicsquare/libtropic) to update to the latest firmware, but be aware that each firmware version has its own datasheet and API version. Also [read this page](part-number-and-firmware-version.md) to understand the impact on lifecycle of your product.
 
 | Firmware | Datasheet | User API | Changes |
 |----------|-----------|----------|-------------|
