@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > TROPIC01's behaviour is defined by:
 > 1. **Initial firmware (Updateable)** — Application + SPECT firmware versions
-> 2. **Factory provisioning (Permanent)** — OTP feature bits + certificate chain
+> 2. **Factory provisioning (Permanent)** — Immutable configuration and certificate chain
 >
 > Both information is encoded in Part Number.
 > [Read this page](part-number-and-firmware-version.md) to understand impact on lifecycle of your product.
