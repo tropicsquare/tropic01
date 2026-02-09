@@ -15,7 +15,7 @@
 | **[TR01-C2P-T202](parts/TR01-C2P-T202.md)** | QFN32 | 0.5.0 | 0.3.1 | ![STATUS](https://img.shields.io/badge/STATUS-DEPRECATED-red) |
 | **[TR01-C2P-T103](parts/TR01-C2P-T103.md)** | QFN32 | 0.3.1 | 0.3.1 | ![STATUS](https://img.shields.io/badge/STATUS-DEPRECATED-red) |
 | **[TR01-C2P-T101](parts/TR01-C2P-T101.md)** | QFN32 | 0.3.1 | 0.3.1 | ![STATUS](https://img.shields.io/badge/STATUS-DEPRECATED-red) |
-| **[TR01-B2S-T005](parts/TR01-B2S-T005.md)** | B2S | 0.2.0 | 0.3.1 |  ![STATUS](https://img.shields.io/badge/STATUS-DEPRECATED-red) |
+| **[TR01-B2S-T005](parts/TR01-B2S-T005.md)** | QFN32 | 0.2.0 | 0.3.1 |  ![STATUS](https://img.shields.io/badge/STATUS-DEPRECATED-red) |
 
 
 ## Firmware Versions
