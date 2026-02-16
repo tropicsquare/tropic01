@@ -10,7 +10,7 @@
 
 We recommend starting with the [Python model](https://tropicsquare.github.io/libtropic/latest/tutorials/model/) of the chip to experiment with our SDK, even without physical hardware. The model communicates with the library over TCP, and all your code stays the same—only the transport layer file changes—so whatever you develop and test with the model will execute identically on hardware.
 
-Once you're familiar with the API, [order](https://www.tropicsquare.com/order-devkit) a devboard of your preference and continue with real hardware. Tutorials for the model and devboards are available with our official C library [libtropic](https://github.com/tropicsquare/libtropic). For more information about existing devboards, visit the dedicated repository [here](https://github.com/tropicsquare/devboards).
+Once you're familiar with the API, [order](https://www.tropicsquare.com/order-devkit) a devboard of your preference and continue with real hardware. More [tutorials](https://tropicsquare.github.io/libtropic/latest/tutorials/) for the model and devboards are available with our official C library [libtropic](https://github.com/tropicsquare/libtropic). For more information about existing devboards, visit the dedicated repository [here](https://github.com/tropicsquare/devboards).
 
 
 ## What changes when you update TROPIC01's firmware?

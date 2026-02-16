@@ -1,7 +1,7 @@
 # Part Number and Firmware versions
 
 **Part Number** contains information about both **Factory Provisioning** and **initial Firmware versions**.
- If you don't know your Part's Number, you can follow tutorial in [libtropic](https://github.com/tropicsquare/libtropic) to read it.
+ If you don't know your Part's Number, you can follow tutorial in [libtropic](https://tropicsquare.github.io/libtropic/latest/tutorials/) to read it.
 
  Part Number encodes:
 
