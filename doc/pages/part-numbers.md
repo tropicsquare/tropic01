@@ -26,13 +26,13 @@ TROPIC01 chips are typically distributed with older firmware. We recommend to us
 
 | Firmware | Datasheet | User API | Changes |
 |----------|-----------|----------|-------------|
-| 2.0.0 | [A.11](../datasheet/ODD_TR01_datasheet_vA_11.pdf) | [1.4.0](../api/ODU_TR01_user_api_v1_4_0.pdf) | TBD |
-| 1.0.1 | [A.10](../datasheet/ODD_TR01_datasheet_vA_10.pdf) | [1.3.0](../api/ODU_TR01_user_api_v1_3_0.pdf) | TBD |
-| 1.0.0 | [A.10](../datasheet/ODD_TR01_datasheet_vA_10.pdf) | [1.3.0](../api/ODU_TR01_user_api_v1_3_0.pdf) | TBD |
-| 0.5.0 | [A.10](../datasheet/ODD_TR01_datasheet_vA_10.pdf) | [1.3.0](../api/ODU_TR01_user_api_v1_3_0.pdf) | TBD |
-| 0.4.0 | [A.10](../datasheet/ODD_TR01_datasheet_vA_10.pdf) | [1.2.0](../api/ODU_TR01_user_api_v1_2_0.pdf) | TBD |
-| 0.3.1 | [A.10](../datasheet/ODD_TR01_datasheet_vA_10.pdf) | [1.2.0](../api/ODU_TR01_user_api_v1_2_0.pdf) | TBD |
-| 0.2.0 | [A.7](../datasheet/ODD_TR01_datasheet_vA_7.pdf) | [1.1.2](../api/ODU_TR01_user_api_v1_1_2.pdf) | Initial, for engineering samples |
+| 2.0.0 | [A.11](../datasheet/ODD_TR01_datasheet_vA_11.pdf) | [1.4.0](../api/ODU_TR01_user_api_v1_4_0.pdf) | API: User Data slot size raised from 444 to 475 bytes (`R_Mem_Data_Write`/`R_Mem_Data_Read`), max write chunk changed from 4-220 to 4-216 bytes.<br>DS: Added `HARDWARE_FAIL` (REV A.11). |
+| 1.0.1 | [A.10](../datasheet/ODD_TR01_datasheet_vA_10.pdf) | [1.3.0](../api/ODU_TR01_user_api_v1_3_0.pdf) | API: No version change vs 1.0.0 (still 1.3.0).<br>DS: No version change vs 1.0.0 (still A.10). |
+| 1.0.0 | [A.10](../datasheet/ODD_TR01_datasheet_vA_10.pdf) | [1.3.0](../api/ODU_TR01_user_api_v1_3_0.pdf) | API: `EDDSA_Sign.MSG` minimum size changed from 1 to 0 bytes (`1-4096` -> `0-4096`).<br>DS: Added Electrical Characteristics Fixed FW upgrade description (REV A.10). |
+| 0.5.0 | [A.10](../datasheet/ODD_TR01_datasheet_vA_10.pdf) | [1.3.0](../api/ODU_TR01_user_api_v1_3_0.pdf) | API: No version change vs 1.0.0 (still 1.3.0).<br>DS: No version change vs 1.0.0 (still A.10). |
+| 0.4.0 | [A.10](../datasheet/ODD_TR01_datasheet_vA_10.pdf) | [1.2.0](../api/ODU_TR01_user_api_v1_2_0.pdf) | API: Added `CFG_GPO` register with GPO pin function modes (`GPO_FUNC`, bits 2:0, default `0x1`).<br>DS: Added Electrical Characteristics Fixed FW upgrade description (REV A.10). |
+| 0.3.1 | [A.10](../datasheet/ODD_TR01_datasheet_vA_10.pdf) | [1.2.0](../api/ODU_TR01_user_api_v1_2_0.pdf) | API: No version change vs 0.4.0 (still 1.2.0).<br>DS: No version change vs 0.4.0 (still A.10). |
+| 0.2.0 | [A.7](../datasheet/ODD_TR01_datasheet_vA_7.pdf) | [1.1.2](../api/ODU_TR01_user_api_v1_1_2.pdf) | API: Removed `DEEP_SLEEP_MODE` from L2 API (1.1.2).<br>DS: REV A.7 adapted X509 certificate details.<br>Initial release used for engineering samples. |
 
 
 ## Catalog list
