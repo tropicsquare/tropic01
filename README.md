@@ -20,7 +20,7 @@ The hardware RTL, firmware source, and security architecture are open for review
 
    - [RTL Design](https://github.com/tropicsquare/tropic01-rtl) Hardware design written in SystemVerilog
    - [Application Firmware](https://github.com/tropicsquare/ts-tr01-app) Firmware running on TROPIC01's RISC-V CPU
-   - [Software Development Kit](https://github.com/tropicsquare/ts-tr01-sdk) Internal SDK used by TROPIC01's internal Application Firmware
+   - [Internal SDK](https://github.com/tropicsquare/ts-tr01-sdk) Internal Software Development Kit used by TROPIC01's internal RISC-V Application Firmware
    - [SPECT Compiler](https://github.com/tropicsquare/ts-spect-compiler) Compiler and instruction set simulator for the SPECT ECC engine.
    - [SPECT Firmware](https://github.com/tropicsquare/ts-spect-fw) Firmware for the SPECT ECC co-processor
 
