@@ -34,6 +34,9 @@ TROPIC01 chips are typically distributed with older firmware. We recommend to us
 | 0.3.1 | [A.10](../datasheet/ODD_TR01_datasheet_vA_10.pdf) | [1.2.0](../api/ODU_TR01_user_api_v1_2_0.pdf) | API: No version change vs firmware 0.4.0 (still 1.2.0).<br>DS: No version change vs firmware 0.4.0 (still A.10). |
 | 0.2.0 | [A.7](../datasheet/ODD_TR01_datasheet_vA_7.pdf) | [1.1.2](../api/ODU_TR01_user_api_v1_1_2.pdf) | API: Removed `DEEP_SLEEP_MODE` from L2 API (1.1.2).<br>DS: REV A.7 adapted X509 certificate details.<br>Initial release used for engineering samples. |
 
+## Datasheet, Application notes and API
+
+Please select the part number of interest from the table above. Specific documentation for each part number is available on its dedicated page.
 
 ## Catalog list
 
