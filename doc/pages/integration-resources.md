@@ -18,6 +18,11 @@ Hardware wallet using TROPIC01 for PIN verification, device authenticity, and as
 **[RDDL Network](https://github.com/rddl-network)**
 IoT and energy tracking network with TROPIC01 integration for device identity and data attestation.
 
-**[wolfSSL](https://github.com/wolfSSL/wolfssl)**  
+**[wolfSSL](https://github.com/wolfSSL/wolfssl)**
 Lightweight SSL/TLS library written in ANSI C and targeted for embedded, RTOS, and resource-constrained environments.
 
+**[pytropicsquare](https://github.com/petrkr/pytropicsquare)**
+Python library for TROPIC01.
+
+**[tropic01manager](https://github.com/petrkr/tropic01manager)**
+TROPIC01 manager - graphical GUI to help with chip evaluation.
