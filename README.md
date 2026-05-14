@@ -1,6 +1,10 @@
 # TROPIC01
 
+
+
 **TROPIC01** is an auditable secure element built around a **RISC-V** core and a custom cryptographic coprocessor named **SPECT**.
+
+<img src="./doc/img/TROPIC01_chip.png" width="150" alt="TROPIC01 chip">
 
 The hardware RTL, firmware source, and security architecture are open for review and audit. TROPIC01 is currently in production, available to order and integrate!
 
