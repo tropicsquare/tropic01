@@ -15,7 +15,7 @@ The hardware RTL, firmware source, and security architecture are open for review
 
 ### Get Started with TROPIC01
 
-- [TROPIC01 Part Numbers](doc/pages/part-numbers.md) - Information for all existing part numbers (Datasheets, APIs, Firmware, Errata and more)
+- [TROPIC01 Part Numbers](doc/pages/part-numbers.md) - Information for all existing part numbers (Datasheets, APIs, Firmware, Errata, Security Advisories, Security Reports and more)
 - [Devboards](https://github.com/tropicsquare/devboards) - Repository with hardware resources for our development boards
 - [Integration Resources](doc/pages/integration-resources.md) - Official SDK and tutorials for our devboards
 - [Security Architecture](doc/application_notes/ODN_TR01_app_008_sec_arch_1v0.pdf) - Application note describing the security architecture of the chip in great detail
