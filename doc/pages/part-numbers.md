@@ -38,6 +38,11 @@ TROPIC01 chips are typically distributed with older firmware. We recommend to us
 
 Please select the part number of interest from the table above. Specific documentation for each part number is available on its dedicated page.
 
+## Security Advisory and Reports
+
+Please select the part number of interest from the table above. Security advisory and report documents are available on their dedicated pages.
+
+
 ## Catalog list
 
 For technical details on what differs between part numbers, see [TROPIC01 Catalog List v2.0](../catalog_list/OD_TR01_catalog_list_2v0.pdf).
