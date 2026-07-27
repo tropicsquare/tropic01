@@ -19,6 +19,7 @@ The hardware RTL, firmware source, and security architecture are open for review
 - [Devboards](https://github.com/tropicsquare/devboards) - Repository with hardware resources for our development boards
 - [Integration Resources](doc/pages/integration-resources.md) - Official SDK and tutorials for our devboards
 - [Security Architecture](doc/application_notes/ODN_TR01_app_008_sec_arch_1v1.pdf) - Application note describing the security architecture of the chip in great detail
+- [Security Reports](doc/pages/security-reports.md) - Public security evaluation reports for TROPIC01
 
 
 ### Audit TROPIC01's Open Design
@@ -28,6 +29,7 @@ The hardware RTL, firmware source, and security architecture are open for review
    - [Internal SDK](https://github.com/tropicsquare/ts-tr01-sdk) Internal Software Development Kit used by the RISC-V Application Firmware
    - [SPECT Compiler](https://github.com/tropicsquare/ts-spect-compiler) Compiler and instruction set simulator for the SPECT ECC engine.
    - [SPECT Firmware](https://github.com/tropicsquare/ts-spect-fw) Firmware for the SPECT ECC co-processor
+   - Bootloader - Current bootloader code cannot be opened due to legal issues with silicon IP providers
 
 ### FAQ
 
