@@ -26,3 +26,8 @@ Python library for TROPIC01.
 
 **[tropic01manager](https://github.com/petrkr/tropic01manager)**
 TROPIC01 manager - graphical GUI to help with chip evaluation.
+
+**[stm32_trustzone_demo](https://github.com/OndraBeran/stm32_trustzone_demo)**
+STM32 TrustZone demo integration for TROPIC01.
+
+
