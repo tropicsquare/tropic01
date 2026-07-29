@@ -10,7 +10,6 @@
 
 | Part Number | Package | Default Application FW | Default SPECT FW | Status  |
 |-------------|---------|------------------------|------------------|---------|
-| **[TR01-C2P-T310](parts/TR01-C2P-T310.md)** | QFN32 | 2.0.0 | 1.0.0 | ![STATUS](https://img.shields.io/badge/STATUS-ON_REQUEST-yellow) |
 | **[TR01-C2P-T301](parts/TR01-C2P-T301.md)** | QFN32 | 1.0.0 | 1.0.0 | ![STATUS](https://img.shields.io/badge/STATUS-RECOMMENDED_FOR_NEW_DESIGNS-blue) |
 | **[TR01-C2P-T202](parts/TR01-C2P-T202.md)** | QFN32 | 0.5.0 | 0.3.1 | ![STATUS](https://img.shields.io/badge/STATUS-DEPRECATED-red) |
 | **[TR01-C2P-T103](parts/TR01-C2P-T103.md)** | QFN32 | 0.3.1 | 0.3.1 | ![STATUS](https://img.shields.io/badge/STATUS-DEPRECATED-red) |
