@@ -1,5 +1,9 @@
 # Integration Resources
 
+## Integration Guide
+
+**[Integration Guide](../integration_guides/ODU_TR01_int_guide-1v0.pdf)** (PDF) - Guide for integrating TROPIC01 into your product.
+
 ## Official SDK
 
 **[libtropic](https://github.com/tropicsquare/libtropic)** C SDK - Platform-independent SDK for application development. Supports Linux, macOS, ARM32, and ESP32, examples included.
